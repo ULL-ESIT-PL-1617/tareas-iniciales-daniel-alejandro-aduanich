@@ -24,5 +24,10 @@
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gitbook": "^3.2.2",
+    "gulp-gitbook": "0.0.1",
+    "q": "^1.4.1"
   }
 }
