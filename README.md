@@ -13,10 +13,10 @@
 ## Miembros
 
 - Aduanich Rodríguez Rodríguez
-  - [Página personal en github](wwww.pagina_de_aduanich.com)
+  - [Página personal en github](https://alu0100818130.github.io)
   - [Página personal en campus virtual](https://campusvirtual.ull.es/1617/user/view.php?id=9417&course=1148)
 - Alejandro David Carrillo Padrón
-  - [Página personal en github](wwww.pagina_de_alejandro.com)
+  - [Página personal en github](https://alu0100845808.github.io/)
   - [Página personal en campus virtual](https://campusvirtual.ull.es/1617/user/view.php?id=9406&course=1148)
 - Daniel Antonio Fernández Pérez
   - [Página personal en github](http://alu0100818130.github.io/)
