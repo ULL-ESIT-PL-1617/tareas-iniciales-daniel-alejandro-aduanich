@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-daniel-alejandro-aduanich#readme",
   "devDependencies": {
-    "gh-pages": "^0.12.0"
+    "gh-pages": "^0.12.0",
+    "gulp": "^3.9.1"
   }
 }
