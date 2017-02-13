@@ -2,7 +2,7 @@
 
 # NodeJS
 
-1) Para instalar Node.JS lo que debemos hacer es abrir una terminal en ubuntu y escribir los siguiente comandos:
+1) Para instalar NodeJS lo que debemos hacer es abrir una terminal en ubuntu y escribir los siguiente comandos:
 
 > sudo apt-get update;
 > sudo apt-get install nodejs
