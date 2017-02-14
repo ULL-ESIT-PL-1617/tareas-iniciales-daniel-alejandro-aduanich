@@ -10,7 +10,7 @@
 - [ ] pandoc
 - [ ] cloun9
 - [ ] nodejs
-- [ ] gh-pages
+- [x] gh-pages
 
 ## Miembros
 
