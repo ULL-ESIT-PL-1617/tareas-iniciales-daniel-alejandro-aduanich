@@ -12,9 +12,13 @@ Para utilizar gh-pages, hay varios métodos:
 
 * Crear una rama gh-pages de forma local y dentro de la misma poner el contenido que deseas mostrar en tu página web. Github se encargará de forma automática de identificar el contenido de la rama.
 Para crear la rama gh-pages y movernos a ella ejecutamos los comandos:
-  >$ git branch gh-pages  
-
-  >$ git checkout gh-pages
+  
+  ```bash
+  $ git branch gh-pages  
+  ```
+  ```bash
+  $ git checkout gh-pages
+  ```
 
 * Accediendo a la web de [GH-Pages](https://pages.github.com/) y siguiendo las instrucciones que se indican.
 
