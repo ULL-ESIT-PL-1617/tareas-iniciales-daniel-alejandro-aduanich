@@ -1,11 +1,18 @@
 # Introduction
 
 # NodeJS
+## ¿Que es NodeJS?
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor.
 
+## Instalacion
 1) Para instalar NodeJS lo que debemos hacer es abrir una terminal en ubuntu y escribir los siguiente comandos:
 
-> sudo apt-get update;
-> sudo apt-get install nodejs
+```bash
+sudo apt-get update;
+```
+```bash
+sudo apt-get install nodejs
+```
 
 Aparecerá lo siguiente:
   ![Texto alternativo](https://raw.githubusercontent.com/ULL-ESIT-PL-1617/tareas-iniciales-daniel-alejandro-aduanich/master/capturas/Captura%20de%20pantalla%20de%202017-02-13%2012-57-27.png?token=AOP5X7bBB3ZHG9akzSU003mAKr4FYBt4ks5YqxPBwA%3D%3D)
