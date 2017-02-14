@@ -4,13 +4,15 @@
 
 ## Contenido
 
-- [x] nodejs
+- [x] NodeJS
 - [ ] GitBook
-- [ ] git
-- [ ] pandoc
-- [ ] cloun9
-- [ ] nodejs
-- [x] gh-pages
+- [x] Git
+- [ ] GitHub
+- [ ] MarkDown
+- [x] Pandoc
+- [ ] Atom
+- [ ] Cloud9
+- [x] Gh-Pages
 
 ## Miembros
 
