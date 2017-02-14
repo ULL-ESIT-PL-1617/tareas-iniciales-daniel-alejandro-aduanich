@@ -50,3 +50,9 @@ El SUMMARY podria ser tal que asi:
 
 ```
 
+Una vez añadido esto podemos testear nuestro libro para ello usamos el comando:
+```
+gitbook serve
+```
+Una vez hecho esto se nos abrira un puerto al cual podremos accederemos via localhost.
+
