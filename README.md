@@ -8,7 +8,7 @@
 - [x] GitBook
 - [x] Git
 - [x] GitHub
-- [ ] MarkDown
+- [x] MarkDown
 - [x] Pandoc
 - [ ] Atom
 - [ ] Cloud9
