@@ -10,4 +10,4 @@
   * [Pandoc](Pandoc/pandoc.md)
 * [Capitulo 5 - MarkDown](MarkDown/README.md)
 * [Capitulo 6 -  GitBook](GitBook/README.md)
-* [Capitulo 7 -  GH-Pages](GHPages/README.md)
+* [Capitulo 7 -  GH-Pages](GHPages/GHPages.md)
