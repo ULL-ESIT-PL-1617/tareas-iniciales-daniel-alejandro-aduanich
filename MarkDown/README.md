@@ -164,3 +164,14 @@ Otra característica con grandes variaciones entre diferentes intérpretes, la s
     |Fila 1| Contenido 1 | Contenido 2 |
     |Fila 2| Contenido 3 | Contenido 4 |
     |Fila 3| Contenido 5 | Contenido 6
+
+# Líneas divisorias
+Tan solo hace falta repetir tres veces cualquiera de los símbols `-`, `_`, `*`
+
+---
+***
+___
+
+      ---
+      ***
+      ___
