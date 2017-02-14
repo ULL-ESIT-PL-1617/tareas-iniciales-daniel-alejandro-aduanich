@@ -47,6 +47,7 @@ se consigue así
     Por ejemplo este texto
 
     se consigue así
+
 # Negrita, cursiva y tachado
 - __negrita__ y **negrita**
 - _cursiva_ y *cursiva*
@@ -55,3 +56,44 @@ se consigue así
       __negrita__ y **negrita**
       _cursiva_ y *cursiva*
       ~~tachado~~
+
+# Listas
+Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teniendo por ejemplo una lista numerada anidada dentro de una no numerada.
+
+- elemento A
+- elemento B
+  1. Subelemento 1
+  1. Subelemento 2
+  1. Subelemento 3
+- elemento C
+
+### No numeradas
+      - Elemento A
+      - Elemento B
+      - Elemento C
+
+### Numeradas       
+    1. Subelemento 1
+    2. Subelemento 2
+    3. Subelemento 3
+
+La anidación se consigue simplemente tabulando elementos en la lista. Además, dependiendo del intérprete puede ocurrir (como es el caso del que contiene atom) que no sea necesario especificar en una lista numerada cual es el índice del elemento, tan solo que es un elemento numerado. El ejemplo anterior aprovecha esta particularidad y su sintais es:
+
+    - elemento A
+    - elemento B
+      1. Subelemento 1
+      1. Subelemento 2
+      1. Subelemento 3
+    - elemento C
+
+# Citas
+
+> No tengo miedo a los ordenadores. A lo que tengo miedo es a la falta de ellos  
+
+>Isaac Asimov
+
+Basta con añadir el símbol `>` antes del texto
+
+      > No tengo miedo a los ordenadores. A lo que tengo miedo es a la falta de ellos  
+
+      >Isaac Asimov
