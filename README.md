@@ -5,9 +5,9 @@
 ## Contenido
 
 - [x] NodeJS
-- [ ] GitBook
+- [x] GitBook
 - [x] Git
-- [ ] GitHub
+- [x] GitHub
 - [ ] MarkDown
 - [x] Pandoc
 - [ ] Atom
