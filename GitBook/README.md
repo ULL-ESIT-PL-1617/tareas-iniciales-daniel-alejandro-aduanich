@@ -13,7 +13,7 @@ sudo apt-get install npm
 ```
 Luego de esto ya podemos instalar gitbook con el comando:
 ```bash
-npm install gitbook-cli -g;
+npm install gitbook-cli -g
 ```
 
 ## ¿Como crear un libro?
