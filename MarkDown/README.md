@@ -48,14 +48,16 @@ se consigue así
 
     se consigue así
 
-# Negrita, cursiva y tachado
+# Negrita, cursiva, tachado y monoespaciado
 - __negrita__ y **negrita**
 - _cursiva_ y *cursiva*
 - ~~tachado~~
+- `monoespaciado`
 
       __negrita__ y **negrita**
       _cursiva_ y *cursiva*
       ~~tachado~~
+      `monoespaciado`
 
 # Listas
 Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teniendo por ejemplo una lista numerada anidada dentro de una no numerada.
@@ -68,9 +70,9 @@ Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teni
 - elemento C
 
 ### No numeradas
-      - Elemento A
-      - Elemento B
-      - Elemento C
+    - Elemento A
+    - Elemento B
+    - Elemento C
 
 ### Numeradas       
     1. Subelemento 1
@@ -97,3 +99,28 @@ Basta con añadir el símbol `>` antes del texto
       > No tengo miedo a los ordenadores. A lo que tengo miedo es a la falta de ellos  
 
       >Isaac Asimov
+
+# Bloques de texto monoespaciado
+Si bien ya explicamos anteriormente como conseguir una palabra o frase con tipografía monoespaciada, para grandes fragmentos de texto
+con sus correspondientes saltos de línea existen dos formas más sencillas:
+
+- Tabulando 3 o más veces el texto.
+
+      Este texto está tabulado 3 veces
+- Encerrando el texto entre ` ``` `
+
+      ```
+      Este texto está encerrado
+      \```
+
+# Fragmentos de código
+Aprovechando el modo anterior, podemos especificar el resaltado
+de sintaxis de un lenguaje para que se aplique al bloque texto.
+Esta característica no es tan ubicua como las nombradas anteriormente pero es de gran relevancia y si está admitida en el markdown de _GitHub_
+
+```c++
+#include <iostream>
+
+int main (void) {
+  std::cout << "c++" << std::endl;
+}
