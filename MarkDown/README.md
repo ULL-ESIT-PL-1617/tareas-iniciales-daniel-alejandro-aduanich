@@ -59,6 +59,16 @@ se consigue así
       ~~tachado~~
       `monoespaciado`
 
+# Vínculos
+[esto es un hipervínculo a nuestro repositorio](https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-daniel-alejandro-aduanich)
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
+
+
+      [esto es un hipervínculo a nuestro repositorio](https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-daniel-alejandro-aduanich)
+
+      ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
+
 # Listas
 Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teniendo por ejemplo una lista numerada anidada dentro de una no numerada.
 
@@ -107,16 +117,18 @@ con sus correspondientes saltos de línea existen dos formas más sencillas:
 - Tabulando 3 o más veces el texto.
 
       Este texto está tabulado 3 veces
-- Encerrando el texto entre ` ``` `
+- Encerrando el texto entre bloques de 3 veces el símbolo "\`"
+
 
       ```
       Este texto está encerrado
-      \```
+      ```
+
 
 # Fragmentos de código
 Aprovechando el modo anterior, podemos especificar el resaltado
 de sintaxis de un lenguaje para que se aplique al bloque texto.
-Esta característica no es tan ubicua como las nombradas anteriormente pero es de gran relevancia y si está admitida en el markdown de _GitHub_
+Esta característica no es tan ubicua como las nombradas anteriormente pero es de gran relevancia a la hora de mostrar _snippets_ y si está admitida en el markdown de _GitHub_
 
 ```c++
 #include <iostream>
@@ -124,3 +136,31 @@ Esta característica no es tan ubicua como las nombradas anteriormente pero es d
 int main (void) {
   std::cout << "c++" << std::endl;
 }
+```
+
+Se consigue mediante:
+
+
+    ```c++
+    #include <iostream>
+
+    int main (void) {
+      std::cout << "c++" << std::endl;
+    }
+    ```
+
+# Tablas
+Otra característica con grandes variaciones entre diferentes intérpretes, la sintaxis aceptada por github es:
+
+| Tabla | Columna 1 | Columna 2 |
+|-------|-----------|-----------|
+|Fila 1| Contenido 1 | Contenido 2 |
+|Fila 2| Contenido 3 | Contenido 4 |
+|Fila 3| Contenido 5 | Contenido 6
+
+
+    | Tabla | Columna 1 | Columna 2 |
+    |-------|-----------|-----------|
+    |Fila 1| Contenido 1 | Contenido 2 |
+    |Fila 2| Contenido 3 | Contenido 4 |
+    |Fila 3| Contenido 5 | Contenido 6
