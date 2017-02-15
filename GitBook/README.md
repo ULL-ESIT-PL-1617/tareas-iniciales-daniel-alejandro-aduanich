@@ -53,3 +53,28 @@ Una vez añadido esto podemos testear nuestro libro para ello usamos el comando:
 gitbook serve
 ```
 Una vez hecho esto se nos abrira un puerto al cual podremos accederemos via localhost.
+
+
+## ¿Cómo añadir un libro a gitbook.com?
+
+Para poder añadir un libro a gitbook lo primero que debemos hacer es entrar en gitbook.com
+
+![ImagenP](../capturas/gitbook/1.png)
+ 
+Una vez hecho esto te logueas con tu cuenta de Github
+
+ ![ImagenP](../capturas/gitbook/2.png)
+
+Ponemos la opcion New que esta en azul
+
+ ![ImagenP](../capturas/gitbook/3.png)
+
+Una vez ahi pulsas en la flecha debajo KNOWLEDGE BASE
+
+ ![ImagenP](../capturas/gitbook/4.png)
+
+Y aparecera la siguiente ventana una vez ahi pulsas en github y rellenas los datos
+
+ ![ImagenP](../capturas/gitbook/6.png)
+ 
+Una vez hecho esto ya tendremos nuestro repositorio subido a Gitbook.
