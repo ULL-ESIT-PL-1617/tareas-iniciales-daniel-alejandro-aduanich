@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "gitbook": "^3.2.2",
-    "gitbook-cli": "^2.3.0"
+    "gitbook-cli": "^2.3.0",
+    "gulp": "^3.9.1"
   }
 }
