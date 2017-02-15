@@ -1,10 +1,11 @@
+# Git
 ## ¿Qué es Git?
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
 A continuación comentaremos con instalar y comenzar a usar Git en Windows y Linux:
 
-### Instalación en Windows
+## Instalación en Windows
 
 Comenzamos con la instalación en Windows. A continuación se mostrarán unas capturas paso a paso sobre como instalar Git en Windows.
 
@@ -20,7 +21,7 @@ Comenzamos con la instalación en Windows. A continuación se mostrarán unas ca
 ![Texto alternativo](../capturas/PL/Git10.png)
 ![Texto alternativo](../capturas/PL/Git11.png)
 
-### Instalación en Linux
+## Instalación en Linux
 
 Para instalar Git usaremos el comando:
 
@@ -30,7 +31,7 @@ $ apt-get install git
 
 Con esto estamos listos para empezar a usar git en nuestro ordenador
 
-### Como usar Git
+## Como usar Git
 
 Son muchas las opciones que nos ofrece Git como servicio pero para usarlas primero tenemos que activarlo en el lugar en el que estemos trabajando.
 Para ello usaremos el comando sobre el directorio sobre el que queramos trabajar:
@@ -52,7 +53,7 @@ Lo siguiente sería hacer una confirmación (famosamente conocida como __commit_
 ```bash
 $ git commit -am "Mensaje"
 ```
-###### Commits
+### Commits
 
 La unión de varias confirmaciones genera lo que es conocido como el __árbol de confirmaciones__. Este posee __ramas__ que son líneas de confirmaciones con distintas versiones del proyecto que se encuentra bajo el control de versiones.
 La rama que viene por defecto en los repositorios git es la __master__ y en caso de no hacer ningún tipo de acción adicional (Posteriormente lo veremos) todas las confirmaciones se añadirán a esta.
@@ -77,7 +78,7 @@ Y por último para situarnos en una rama:
 ```bash
 $ git checkout <NOMBRE DE LA RAMA>
 ```
-###### Mezclar Ramas
+### Mezclar Ramas
 Tras ver todo esto nos preguntamos ¿Cómo llevamos los cambios hechos en una rama a la rama principal "master"?
 La respuesta es __mezclando/fusionando__ ámbas ramas en la master:
 ```bash
@@ -89,7 +90,7 @@ Así, en caso de querer unir los cambios de la rama "pruebas" con la rama "maste
 $ git checkout master
 $ git merge pruebas
 ```
-##### Trabajando con repositorios remotos
+### Trabajando con repositorios remotos
 
 Todos nuestros proyectos almacenados en repositorios pueden subirse a repositorios remotos al igual que se pueden descargar/clonar de estos.
 Para ver la lista de repositorios remotos vinculados a tu repositorio local ejecuta:

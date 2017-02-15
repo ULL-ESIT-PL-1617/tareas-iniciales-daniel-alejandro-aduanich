@@ -1,13 +1,15 @@
-# ¿Qué es MarkDown?
+# Markdown
+
+## ¿Qué es MarkDown?
 Atendiendo a [wikipedia](https://es.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png):
 
 >Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 
 En la práctica esto se traduce en un lenguaje de dominio específico que nos permite escribir texto y especificar su formato empleando únicamente texto plano. Es importante señalar que markdown **no** es un estándar, por lo que sus capacidades y sintaxis completa dependen del intérprete / traductor que empleemos. Sin embargo, existen una serie de elementos comunes:
 
-# ¿Qué permite markdown?
+## ¿Qué permite markdown?
 
-## Encabezados
+### Encabezados
 Pueden especificarse hasta 6 niveles, mediante dos formas distintas:
 
     # Encabezado 1
@@ -35,7 +37,7 @@ Produciendo:
 ###### Encabezado 6
 
 
-## Texto plano
+### Texto plano
 Se escribe de forma normal, con la particularidad de que para conseguir un salto de línea deben insertarse o bien dos espacios en blanco antes del salto en sí o bien dos saltos seguidos.
 
 Por ejemplo este texto  
@@ -48,7 +50,7 @@ se consigue así
 
     se consigue así
 
-# Negrita, cursiva, tachado y monoespaciado
+### Negrita, cursiva, tachado y monoespaciado
 - __negrita__ y **negrita**
 - _cursiva_ y *cursiva*
 - ~~tachado~~
@@ -59,7 +61,7 @@ se consigue así
       ~~tachado~~
       `monoespaciado`
 
-# Vínculos
+### Vínculos
 [esto es un hipervínculo a nuestro repositorio](https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-daniel-alejandro-aduanich)
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
@@ -69,7 +71,7 @@ se consigue así
 
       ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
 
-# Listas
+### Listas
 Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teniendo por ejemplo una lista numerada anidada dentro de una no numerada.
 
 - elemento A
@@ -79,12 +81,12 @@ Se distingue entre listas numerdas y no numeradas. Ambas se pueden combinar teni
   1. Subelemento 3
 - elemento C
 
-### No numeradas
+#### No numeradas
     - Elemento A
     - Elemento B
     - Elemento C
 
-### Numeradas       
+#### Numeradas       
     1. Subelemento 1
     2. Subelemento 2
     3. Subelemento 3
@@ -98,7 +100,7 @@ La anidación se consigue simplemente tabulando elementos en la lista. Además, 
       1. Subelemento 3
     - elemento C
 
-# Citas
+### Citas
 
 > No tengo miedo a los ordenadores. A lo que tengo miedo es a la falta de ellos  
 
@@ -110,7 +112,7 @@ Basta con añadir el símbol `>` antes del texto
 
       >Isaac Asimov
 
-# Bloques de texto monoespaciado
+### Bloques de texto monoespaciado
 Si bien ya explicamos anteriormente como conseguir una palabra o frase con tipografía monoespaciada, para grandes fragmentos de texto
 con sus correspondientes saltos de línea existen dos formas más sencillas:
 
@@ -125,7 +127,7 @@ con sus correspondientes saltos de línea existen dos formas más sencillas:
       ```
 
 
-# Fragmentos de código
+### Fragmentos de código
 Aprovechando el modo anterior, podemos especificar el resaltado
 de sintaxis de un lenguaje para que se aplique al bloque texto.
 Esta característica no es tan ubicua como las nombradas anteriormente pero es de gran relevancia a la hora de mostrar _snippets_ y si está admitida en el markdown de _GitHub_
@@ -149,7 +151,7 @@ Se consigue mediante:
     }
     ```
 
-# Tablas
+### Tablas
 Otra característica con grandes variaciones entre diferentes intérpretes, la sintaxis aceptada por github es:
 
 | Tabla | Columna 1 | Columna 2 |
@@ -165,7 +167,7 @@ Otra característica con grandes variaciones entre diferentes intérpretes, la s
     |Fila 2| Contenido 3 | Contenido 4 |
     |Fila 3| Contenido 5 | Contenido 6
 
-# Líneas divisorias
+### Líneas divisorias
 Tan solo hace falta repetir tres veces cualquiera de los símbols `-`, `_`, `*`
 
 ---

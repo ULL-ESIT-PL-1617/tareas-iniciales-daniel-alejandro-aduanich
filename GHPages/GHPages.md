@@ -1,10 +1,9 @@
 ## GHPages
-
-### ¿Qué es GH-Pages?
+## ¿Qué es GH-Pages?
 
 GH-Pages es una forma rápida de publicar tu propia página web desde github, utilizando sus herramientas.
 
-### Utilización
+## Utilización
 
 Para utilizar gh-pages, hay varios métodos:
 
