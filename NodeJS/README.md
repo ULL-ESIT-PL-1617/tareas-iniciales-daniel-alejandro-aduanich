@@ -1,5 +1,3 @@
-# Introduction
-
 # NodeJS
 ## ¿Que es NodeJS?
 

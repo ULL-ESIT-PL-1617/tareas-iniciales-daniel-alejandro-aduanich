@@ -1,8 +1,6 @@
-# Introduction
+## ¿Qué es Git?
 
-## Git
-
-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. 
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
 A continuación comentaremos con instalar y comenzar a usar Git en Windows y Linux:
 

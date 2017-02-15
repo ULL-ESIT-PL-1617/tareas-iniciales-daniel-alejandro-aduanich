@@ -1,5 +1,3 @@
-# Introduction
-
 # Pandoc
 ## ¿Que es Pandoc?
 

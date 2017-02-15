@@ -1,6 +1,4 @@
-# Introduction
-
-## GitHub
+## ¿Qué es Github?
 
 GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git.
 Para crearte una cuenta en GitHub accede a su página web: [www.github.com](www.github.com)
