@@ -61,19 +61,19 @@ Para poder añadir un libro a gitbook lo primero que debemos hacer es entrar en 
 
 ![ImagenP](../capturas/gitbook/1.png)
  
-Una vez hecho esto te logueas con tu cuenta de Github
+Una vez hecho esto te logueas con tu cuenta de Github:
 
  ![ImagenP](../capturas/gitbook/2.png)
 
-Ponemos la opcion New que esta en azul
+Ponemos la opcion New Book que esta en azul:
 
  ![ImagenP](../capturas/gitbook/3.png)
 
-Una vez ahi pulsas en la flecha debajo KNOWLEDGE BASE
+Una vez ahi pulsas en la flecha debajo KNOWLEDGE BASE:
 
  ![ImagenP](../capturas/gitbook/4.png)
 
-Y aparecera la siguiente ventana una vez ahi pulsas en github y rellenas los datos
+Y aparecera la siguiente ventana, una vez ahi pulsas en github y rellenas los datos:
 
  ![ImagenP](../capturas/gitbook/6.png)
  
