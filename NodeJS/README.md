@@ -1,5 +1,5 @@
 # NodeJS
-## ¿Que es NodeJS?
+## ¿Qué es NodeJS?
 
 Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor.
 
