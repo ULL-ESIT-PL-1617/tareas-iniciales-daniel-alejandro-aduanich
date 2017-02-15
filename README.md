@@ -10,8 +10,8 @@
 - [x] GitHub
 - [x] MarkDown
 - [x] Pandoc
-- [ ] Atom
-- [ ] Cloud9
+- [x] Atom
+- [x] Cloud9
 - [x] Gh-Pages
 
 ## Miembros
