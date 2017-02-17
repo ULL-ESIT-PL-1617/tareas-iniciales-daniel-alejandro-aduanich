@@ -1,6 +1,11 @@
 # Introducción
 ## Links al deploy
 - [versión gh-pages](https://ull-esit-pl-1617.github.io/tareas-iniciales-daniel-alejandro-aduanich/)
+- [versión gitbook](https://www.gitbook.com/book/danielfernandezperez/tareas-iniciales-pl/details)
+
+## Links a la especificación de la práctica
+- [gitbook especificación](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
+- [asignatura campus virtual](https://campusvirtual.ull.es/1617/course/view.php?id=1148)
 
 ## Contenido
 
